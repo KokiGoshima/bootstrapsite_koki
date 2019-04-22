@@ -1,0 +1,59 @@
+
+body{
+	padding-top: 56px;
+}
+
+/*nav*/
+
+#nav > nav{
+	z-index: 10;
+}
+
+
+ .col-md-4{
+padding-right: 15px;
+padding-left: 15px;
+}
+
+
+
+.navbar-fixed-top{
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+}
+
+/*navend*/
+
+/*home*/
+
+#home{
+	background-image: url("https://pics.prcm.jp/e32ac6ae3c7c8/70342420/jpeg/70342420.jpeg");
+	background-size: cover;
+}
+
+#home h1{
+	line-height: 500px;
+}
+
+/*homeend*/
+
+
+/*features*/
+
+#features .text1{
+	height: 123px;
+}
+
+#features .text2{
+	height: 112px;
+}
+
+#features .row{
+	z-index: 0;
+}
+
+/*features*/
+
+
